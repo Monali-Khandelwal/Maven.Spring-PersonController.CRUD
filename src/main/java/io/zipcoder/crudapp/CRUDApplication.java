@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Bean;
 public class CRUDApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(CRUDApplication.class, args);
 	}
 
